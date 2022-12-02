@@ -9,5 +9,10 @@ As a result, present the source code, the generated data in csv format, the enco
 X ∈ N(-5,10)
 e ∈ N(0,0.3)
 
-Attribute   1	          2	            3	          4	       5	     6	      7
-Formula	-X^(3+e)	ln⁡〖(|X|)+e〗	sin⁡〖(3X)+e〗	exp(X)+e	X+4+e	-x+√((X)+e)	X+e
+1. -X^(3+e)	
+2. ln⁡〖(|X|)+e〗	
+3. sin⁡〖(3X)+e〗	
+4. exp(X)+e	
+5. X+4+e	
+6. -x+√((X)+e)	
+7. X+e
